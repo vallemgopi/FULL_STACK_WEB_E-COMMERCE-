@@ -1,4 +1,8 @@
-ChromaCart - Full Stack E-commerce Web Application
+Here's a **README.md** template for your **e-commerce project, ChromaCart**, based on the content of the uploaded document. You can modify it as needed:
+
+---
+
+## **ChromaCart - Full Stack E-commerce Web Application**
 
 Welcome to **ChromaCart**, a full-featured e-commerce platform developed using **Java (JSP & Servlets)** and **MySQL**. This application provides users with a dynamic shopping experience, complete with product browsing, cart management, and order processing.
 
@@ -95,6 +99,7 @@ FULL_STACK_WEB_E-COMMERCE-/
 │   ├── cart.jsp             # Shopping cart page
 │   └── ...                  # Other JSP pages
 └── README.md                # Project documentation
+```
 
-
+---
 
