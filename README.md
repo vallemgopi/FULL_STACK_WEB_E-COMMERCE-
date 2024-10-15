@@ -1,7 +1,7 @@
 ## **ChromaCart - Full Stack E-commerce Web Application**
 
 Welcome to **ChromaCart**, a full-featured e-commerce platform developed using **Java (JSP & Servlets)** and **MySQL**. This application provides users with a dynamic shopping experience, complete with product browsing, cart management, and order processing.
-![ChromaCart Banner]([images/banner.png](https://github.com/vallemgopi/FULL_STACK_WEB_E-COMMERCE-/blob/main/Screenshot%202024-10-15%20004820.png))
+![ChromaCart Banner](https://github.com/vallemgopi/FULL_STACK_WEB_E-COMMERCE-/blob/main/Screenshot%202024-10-15%20004820.png)
 
 ### **Features**
 - **User Authentication:** Register, Login, and Logout functionality.
